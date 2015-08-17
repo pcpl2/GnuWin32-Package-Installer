@@ -1,0 +1,7 @@
+#list mirriors sourceforge
+http://sourceforge.net/p/forge/documentation/Mirrors/
+
+#example link for file
+http://iweb.dl.sourceforge.net/project/gnuwin32/sed/4.2-1/sed-4.2-1-bin.zip
+http://iweb.dl.sourceforge.net/project/gnuwin32/sed/4.2-1/sed-4.2-1-doc.zip
+http://iweb.dl.sourceforge.net/project/gnuwin32/sed/4.2-1/sed-4.2-1-dep.zip
